@@ -1,2 +1,2 @@
 # crud_db
-CRUD with MongoDB using mongoose.
+CRUD with Sequelize using MySql.
